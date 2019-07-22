@@ -1,0 +1,35 @@
+Calling inherited functions and over riding behaviour.
+
+When a member function is called with a derived class object, the compiler first looks to see if that member exists in the derived class. If not, it begins walking up the inheritance chain and checking whether the member has been defined in any of the parent classes. It uses the first one it finds.
+
+Function Overriding and Function Overhiding.
+Use of using and delete.
+Adding new functionality in derived class to functions of base class.
+
+class Derived: public Base
+{
+public:
+    Derived(int value)
+        : Base(value)
+    {
+    }
+ 
+    int GetValue() { return m_value; }
+ 
+    void identify()
+    {
+        Base::identify(); // call Base::identify() first
+        std::cout << "I am a Derived\n"; // then identify ourselves
+    }
+};
+
+int main()
+{
+    Base base(5);
+    base.identify();
+ 
+    Derived derived(7);
+    derived.identify();
+ 
+    return 0;
+}

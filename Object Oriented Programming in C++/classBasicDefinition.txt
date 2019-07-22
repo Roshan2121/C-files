@@ -1,0 +1,4 @@
+Class is an user defined data type that describes the properties and behaviour of an object. Its like a blue print of the properties of the object.
+properties ----> member variables.
+behaviour ----> member functions.
+Object is a real world entity.

@@ -1,0 +1,421 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"car",
+				"cards_left"
+			],
+			[
+				"c",
+				"cards_left"
+			],
+			[
+				"nu",
+				"num_of_turns"
+			],
+			[
+				"m",
+				"max_cards"
+			],
+			[
+				"num",
+				"num_of_cards"
+			],
+			[
+				"TU",
+				"TURN_ARPA"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"tex",
+				"text-transform\tproperty"
+			],
+			[
+				"b",
+				"border-width\tproperty"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"line",
+				"list-style-position\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"in",
+				"inline\tdisplay"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"bo",
+				"border-bottom\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"border-r",
+				"border-right\tproperty"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"out",
+				"outline-offset\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"al",
+				"align\tAttr"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"i",
+				"italic\tfont-style"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"border-s",
+				"border-spacing\tproperty"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"dt",
+				"dt\tTag"
+			],
+			[
+				"se",
+				"search"
+			],
+			[
+				"e",
+				"ethiopic-halehame-gez\tlist-style-type"
+			],
+			[
+				"lis",
+				"list-style-type\tproperty"
+			],
+			[
+				"bord",
+				"border-collapse\tproperty"
+			],
+			[
+				"t",
+				"text-decoration\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"f",
+				"font\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"l",
+				"lang\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/HP/Documents/Object Oriented Programming in C++/Class15.cpp",
+		"/C/Users/HP/Documents/Object Oriented Programming in C++/constFunctions.cpp",
+		"/C/Users/HP/Documents/Object Oriented Programming in C++/classBasicDefinition.txt",
+		"/C/Users/HP/Documents/Object Oriented Programming in C++/NULLobject.cpp",
+		"/C/Users/HP/Documents/Object Oriented Programming in C++/PrivateConstructor.cpp",
+		"/C/Users/HP/Documents/Object Oriented Programming in C++/explicit.cpp",
+		"/C/Users/HP/Documents/Object Oriented Programming in C++/Class14.cpp",
+		"/C/Users/HP/Documents/Object Oriented Programming in C++/Class13.cpp",
+		"/C/Users/HP/Documents/Object Oriented Programming in C++/ClassAssignment6.cpp",
+		"/C/Users/HP/Documents/Object Oriented Programming in C++/Class12.cpp",
+		"/C/Users/HP/Documents/Object Oriented Programming in C++/ClassAssignment5.cpp",
+		"/C/Users/HP/Documents/Object Oriented Programming in C++/ClassAssignment4.cpp",
+		"/C/Users/HP/Documents/Object Oriented Programming in C++/Class11.cpp",
+		"/C/Users/HP/Documents/Object Oriented Programming in C++/Class10.cpp",
+		"/C/Users/HP/Documents/Object Oriented Programming in C++/Class9.txt",
+		"/C/Users/HP/Documents/Object Oriented Programming in C++/Class8.cpp",
+		"/C/Users/HP/Documents/Object Oriented Programming in C++/Class7.cpp",
+		"/C/Users/HP/Documents/Object Oriented Programming in C++/Class5.cpp",
+		"/C/Users/HP/Documents/Object Oriented Programming in C++/Class4.cpp",
+		"/C/Users/HP/Documents/Object Oriented Programming in C++/Class3.cpp",
+		"/C/Users/HP/Documents/Object Oriented Programming in C++/Class6.txt",
+		"/C/Users/HP/Documents/Object Oriented Programming in C++/Class1.cpp",
+		"/C/Users/HP/Documents/Object Oriented Programming in C++/ClassAssignment3.cpp",
+		"/C/Users/HP/Documents/Object Oriented Programming in C++/ClassAssignment2.cpp",
+		"/C/Users/HP/Documents/Object Oriented Programming in C++/Class2.cpp",
+		"/C/Users/HP/Documents/Object Oriented Programming in C++/ClassAssignment1.cpp",
+		"/C/Users/HP/Documents/C++ programs/Notepad.cpp",
+		"/C/Users/HP/Documents/Object Oriented Programming in C++/ClassAssignment.cpp",
+		"/C/Users/HP/Documents/GitHub/Pi Number/Pi.cpp",
+		"/C/Users/HP/Documents/GitHub/ho.io/main.cpp",
+		"/C/Users/HP/Documents/GitHub/ho.io/guesser.cpp",
+		"/C/Users/HP/Documents/GitHub/ho.io/generator.cpp",
+		"/C/Users/HP/Documents/GitHub/ho.io/Success.h",
+		"/C/Users/HP/Documents/GitHub/ho.io/aboutTry.cpp",
+		"/C/Users/HP/Documents/HTML/HTML form/Form1.html",
+		"/C/Users/HP/Documents/HTML/Try1/web1.html",
+		"/C/Users/HP/Documents/HTML/Try1/cats.html",
+		"/C/Users/HP/Documents/HTML/Try1/new2.css",
+		"/C/Users/HP/Documents/HTML/Try1/new.css",
+		"/C/Users/HP/Documents/HTML/HTML practice/index.html",
+		"/C/Users/HP/Documents/GitHub/Python/Source.html",
+		"/C/Users/HP/Documents/HTML/HTML practice/inframe.html",
+		"/C/Users/HP/Documents/HTML/Try1/Lion.html",
+		"/C/Users/HP/Documents/HTML/Try1/Tiger.html",
+		"/C/Users/HP/Documents/HTML/Try1/test.png",
+		"/C/Users/HP/Desktop/test/Roshan.cpp",
+		"/C/Users/HP/Documents/HTML/main.css",
+		"/C/Users/HP/Documents/HTML/index.html",
+		"/C/Users/HP/Documents/HTML/HTML practice/Images/test.png",
+		"/C/Users/HP/Documents/HTML/index.css",
+		"/C/Users/HP/Desktop/Practice/Comeon",
+		"/C/Users/HP/Desktop/test/file.cpp",
+		"/C/Users/HP/Desktop/Practice/Comeon1"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "explicit.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
